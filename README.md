@@ -20,9 +20,11 @@ You can view a live demo of the project here.
    git clone https://github.com/ThisalLochana/Age-Calculator-using-JS.git
    ```
 2. Navigate to the project directory:
+3. ```
    cd Age-Calculator-using-JS
+   ```
 
-3. Open index.html in your browser to view the age calculator.
+4. Open index.html in your browser to view the age calculator.
 
 ## Usage
 1. Select your birth date using the date picker.
