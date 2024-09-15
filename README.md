@@ -20,7 +20,7 @@ You can view a live demo of the project here.
    git clone https://github.com/ThisalLochana/Age-Calculator-using-JS.git
    ```
 2. Navigate to the project directory:
-3. ```
+    ```
    cd Age-Calculator-using-JS
    ```
 
