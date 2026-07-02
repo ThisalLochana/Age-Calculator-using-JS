@@ -76,6 +76,10 @@
     color: #ffff76;
 }
 
+#text {
+    padding: 10px;
+}
+
 .error {
     color: #f85454;
     font-size: 20px;
